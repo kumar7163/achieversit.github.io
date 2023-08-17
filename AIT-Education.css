@@ -1,5 +1,5 @@
 header{
-	background-image:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("./images/slider/1.jpg") ;
+	background-image:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("./Images/slider/1.jpg") ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 500px;
@@ -130,7 +130,7 @@ header div:nth-child(3) span{
 .sec2p1txtcol{color:#675858; font-family: ui-sans-serif;}
 .sec2p2txt{color:#675858; font-family: ui-sans-serif; font-size: 80%;}
 .sec3bg{
-	background-image:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("./images/background/1.jpg") ;
+	background-image:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("./Images/background/1.jpg") ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 250px;
@@ -240,5 +240,5 @@ footer div:last-child{
 	border: 2px solid yellow;
 }
 .footerlitype{
-	list-style: url("./images/icons/list.png");
+	list-style: url("./Images/icons/list.PNG");
 }
